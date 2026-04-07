@@ -133,7 +133,7 @@ git --version   # Any recent version
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/medicare-pro.git
+git clone  https://github.com/gowripal/MediCare-Pro.git
 cd medicare-pro
 ```
 
@@ -248,7 +248,7 @@ node scripts/createPatients.js
 node scripts/createDoctors.js
 ```
 
-**Default Password**: `Thor@0502` (for all generated accounts)
+**Default Password**: `Thor@0502` (for testing purpose and for all generated accounts)
 
 ---
 
