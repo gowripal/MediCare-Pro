@@ -6,13 +6,6 @@
 
 **Professional Healthcare Management Platform**
 
-[![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-19.2-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-22.8-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [API Documentation](#-api-documentation) • [Contributing](#-contributing)
-
 </div>
 
 ---
@@ -39,6 +32,7 @@
 MediCare Pro is a comprehensive healthcare management platform designed for patients, healthcare providers, and administrators. It provides real-time health monitoring, intelligent alerts, secure messaging, appointment scheduling, and advanced analytics in a single, integrated solution.
 
 ## 📸 Screenshots
+
 
 ### 🏠 Dashboard
 ![Dashboard](public/dashboard.png)
