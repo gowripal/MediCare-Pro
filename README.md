@@ -42,6 +42,8 @@ MediCare Pro is a comprehensive healthcare management platform designed for pati
 
 ### 🏠 Dashboard
 ![Dashboard](public/dashboard.png)
+### Login page
+![Login Page](public/loginpage.png)
 
 
 ### Key Highlights
