@@ -38,6 +38,12 @@
 
 MediCare Pro is a comprehensive healthcare management platform designed for patients, healthcare providers, and administrators. It provides real-time health monitoring, intelligent alerts, secure messaging, appointment scheduling, and advanced analytics in a single, integrated solution.
 
+## 📸 Screenshots
+
+### 🏠 Dashboard
+![Dashboard](public/dashboard.png)
+
+
 ### Key Highlights
 
 - ⚡ **Real-time Health Monitoring** - Live updates every minute
@@ -563,10 +569,15 @@ We welcome contributions! Please follow these steps:
 - Add comments for complex logic
 
 ---
+## 👨‍💻 Contributors
 
-## 📝 License
+- Gowri Sankar Reddy
+- Vineeth Ketham
+- (Add other team members)
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Contributions
+- Vineeth: Frontend development, dashboard, UI
+- Gowri Sankar: Backend APIs, database, authentication
 
 ---
 
